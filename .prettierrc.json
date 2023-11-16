@@ -1,0 +1,13 @@
+{
+  "trailingComma": "all",
+  "proseWrap": "always",
+  "files": ["*.html, *.css, *.scss, *.js, *.ts, *.tsx"],
+  "overrides": [
+    {
+      "files": [".eslintrc.js"],
+      "options": {
+        "parser": "flow"
+      }
+    }
+  ]
+}

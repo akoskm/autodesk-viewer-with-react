@@ -1,0 +1,11 @@
+.home-button {
+  transition: background-color 0.3s ease;
+}
+
+.home-button:hover {
+  background-color: #5a67d8; /* A lighter shade of indigo */
+}
+
+.home-button:active {
+  background-color: #4c51bf; /* A darker shade of indigo */
+}
