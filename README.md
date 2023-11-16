@@ -1,3 +1,6 @@
+Blog post:
+[Build a Custom Autodesk Viewer Extension with React](https://innotek.dev/blog/autodesk-viewer-react-integration)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with
 [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -27,10 +30,11 @@ automatically optimize and load Inter, a custom Google Font.
 
 Here are some publicly available models you can use:
 
- - https://help.autodesk.com/view/RVT/2022/ENU/?guid=GUID-61EF2F22-3A1F-4317-B925-1E85F138BE88
- - https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/7eaQNv7XBPhKjnZpdPRFcA.html
+- https://help.autodesk.com/view/RVT/2022/ENU/?guid=GUID-61EF2F22-3A1F-4317-B925-1E85F138BE88
+- https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/7eaQNv7XBPhKjnZpdPRFcA.html
 
-If these links are live anymore, check out the official tutorial. Keep in mind that the "forge" naming is being deprecated so this might also change
+If these links are live anymore, check out the official tutorial. Keep in mind
+that the "forge" naming is being deprecated so this might also change
 https://forge-tutorials.autodesk.io/tutorials/simple-viewer/viewer/
 
 ## Learn More
